@@ -1,7 +1,5 @@
 # Minimum viable Phoenix
 
-Follow along for the [blog post](http://www.petecorey.com/blog/2019/05/20/minimum-viable-phoenix) by Pete Corey
-
 > Phoenix ships with quite a few bells and whistles. Whenever you fire up mix phx.new to create a new web application, forty six files are created and spread across thirty directories!
 
 > This can be overwhelming to developers new to Phoenix.
